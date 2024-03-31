@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Pokemon-Show/static/css/main.19c16ede.css",
+    "main.js": "/Pokemon-Show/static/js/main.f52b8879.js",
+    "index.html": "/Pokemon-Show/index.html",
+    "main.19c16ede.css.map": "/Pokemon-Show/static/css/main.19c16ede.css.map",
+    "main.f52b8879.js.map": "/Pokemon-Show/static/js/main.f52b8879.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19c16ede.css",
+    "static/js/main.f52b8879.js"
+  ]
+}
